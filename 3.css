@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 4px;
+}
+body{
+    background-color:beige;
+    text-align: center;
+}
+.h1{
+    text-decoration: dashed;
+    background-color: aqua;
+}
+.h2{
+    color-interpolation-filters: linearRGB;
+}
+.section{
+    color: black;
+}
